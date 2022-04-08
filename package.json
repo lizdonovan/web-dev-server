@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "full-stack-developer-server-node",
+  "version": "1.0.0",
+  "description": "Node.js HTTP web server for Tuiter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liz Donovan",
+  "license": "ISC",
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "dependencies": {
+    "express": "^4.17.3",
+    "cors": "^2.8.5"
+  }
+}
