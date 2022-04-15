@@ -9,6 +9,7 @@ const tuitsSchema = mongoose.Schema({
     image: String,
     liked: Boolean,
     likes: Number,
+    dislikes: Number,
     comments: Number,
     retuits: Number
 }, {collection: 'tuits'});
