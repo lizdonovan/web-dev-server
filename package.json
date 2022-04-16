@@ -16,7 +16,8 @@
     "HTTP"
   ],
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3",
-    "cors": "^2.8.5"
+    "mongoose": "^6.3.0"
   }
 }
